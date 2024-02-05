@@ -44,7 +44,7 @@
       </a>
   </div>
 
-# Roboflow Homepage Demo
+# Wahyuadin Skripshit Project
 
 This repository contains the code used to power the inference widget on the [Roboflow](https://roboflow.com) homepage, with some changes to make it more generic.
 
